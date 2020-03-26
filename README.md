@@ -3,7 +3,3 @@
 ## Hello people
 
 ### Testing
-
-## Hello there 
-
-## Cours
